@@ -1,0 +1,229 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-10-16", "2017-10-16", "{96296CCB-50AA-4EC1-8A15-C89B65315B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurFirstConsoleAPP", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-16(102)\OurFirstConsoleAPP\OurFirstConsoleAPP\OurFirstConsoleAPP.csproj", "{06FF9ED4-2055-4EC2-B97A-786AD3E67BC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-10-18", "2017-10-18", "{94EC354F-DB33-4A4E-8429-7F4E3B9B2FEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-10-20", "2017-10-20", "{A58713AC-C55C-45A4-87F6-6A457B07EBDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-10-25", "2017-10-25", "{9EB397B0-6F5C-42A1-8048-EDC368E275C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-10-27", "2017-10-27", "{825E7F8B-F525-47DA-98CC-1CFE4874B49F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-01", "2017-11-01", "{B2847AFD-0190-477A-9D26-D0991AA8638C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-03", "2017-11-03", "{65EA639F-5860-4EC4-9C2C-A2DA6DE894C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-08", "2017-11-08", "{D4001AED-4731-4A88-B5F8-AF7C0A9EE8C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-10", "2017-11-10", "{B9499A8F-DFFF-4E11-B2C1-C02DB35F2814}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-15", "2017-11-15", "{29452C33-6DFB-4F93-A9B6-26B3F6AC3C00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-17", "2017-11-17", "{0FF6AAF3-8779-4D58-A79C-5D1CB2CB5B99}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\Capture.PNG = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\Capture.PNG
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-22", "2017-11-22", "{6EC00D14-BD6D-4F62-9A9E-DC4E4D7B5364}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-24", "2017-11-24", "{6DDB51C7-4D7D-48A3-A5DB-FC6CDC2C3276}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\FirstWebApplication.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\FirstWebApplication.html
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\SecondDayWithHTML.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\SecondDayWithHTML.html
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\TablesInHTML.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\TablesInHTML.html
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\ThirdDayWithHTML.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\ThirdDayWithHTML.html
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\WithHTML5.txt = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\WithHTML5.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-11-29", "2017-11-29", "{DA3F4886-BC68-405B-96B6-682E654D2EE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-12-06", "2017-12-06", "{C4B83FAD-E410-4C5C-B87F-99767D6F2EE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-12-13", "2017-12-13", "{F8F2E8BA-A8A5-47E4-9911-FEBB6B3B2C0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017-12-15", "2017-12-15", "{510E82DF-6E3B-49C9-BB70-EA2D7BF227B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-18(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{6D5FA85C-4268-4EAB-816C-5FF6030C6CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-20(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{DB55B221-FBFF-4A6D-BC58-5508084A31B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-25(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{DF3AFAE8-C752-4AF4-AA93-09C75CA49C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-25(102)\ConsoleApp2\ConsoleApp2\ConsoleApp2.csproj", "{1550CA39-FEE7-4FC2-B1B0-5603B348ADD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-27(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{FC79E6B4-97F0-453B-81A9-163D67FF7DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-10-27(102)\ConsoleApp2\ConsoleApp2\ConsoleApp2.csproj", "{337FBDED-13F0-4ACC-B6C2-3B464CBD1A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-01(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{261F9715-F4F5-4A36-8E7B-7BAD1FB7A030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-01(102)\ConsoleApp2\ConsoleApp2\ConsoleApp2.csproj", "{4B6F6C4D-5225-4C3C-800E-76E4CA9A89CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-03(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{BD62CFC5-7F15-46DA-916A-ABE7783614F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-08(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{C5AB1297-69B9-42BF-A842-10D881529C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-08(102)\ConsoleApp2\ConsoleApp2\ConsoleApp2.csproj", "{DCDAF5CE-C8C2-491A-8308-35E6719A494A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-10(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{D3C862F2-81BF-4842-9282-725BB0AB59CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-15(102)\ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{9F70F112-F3FB-4C79-A308-2B1558AE3634}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder", "NewFolder", "{35671E28-C256-4D1F-85A4-11814549AF43}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\New folder\FirstWebApplication.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\New folder\FirstWebApplication.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{53311FC4-D450-4415-88D5-6E92FB95C388}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\New folder\Content\Images\img1.png = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\New folder\Content\Images\img1.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{721C9D07-9362-426E-886A-6DCD9A95F60B}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\New folder\Content\Images\img1.png = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-17(102)\New folder\Content\Images\img1.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder", "NewFolder", "{0021A4AD-ED67-40AE-A66A-125F5462F058}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\FirstWebApplication.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\FirstWebApplication.html
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\SecondDayWithHTML.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\SecondDayWithHTML.html
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\TablesInHTML.html = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\TablesInHTML.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{E9351B34-BC40-4E3E-83C2-235EAE1D0845}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{834F1A18-A6B7-4734-8836-FC489E35F8E6}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Images\1.jpg = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Images\1.jpg
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Images\3.jpg = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Images\3.jpg
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Images\img1.png = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Images\img1.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Videos", "Videos", "{C144B924-408F-450F-83E6-4813FE69252E}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Videos\file.mp4 = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-22(102)\New folder\Content\Videos\file.mp4
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styles", "Styles", "{7EB8B1E4-BF93-4DE9-8EB6-5BE465D071D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{83EB5BFB-CDFA-4991-A45B-30B6FA708BE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{907CF2E1-4BE7-4489-87BD-4A02ECCEA6F0}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Images\1.jpg = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Images\1.jpg
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Images\3.jpg = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Images\3.jpg
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Images\img1.png = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Images\img1.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Videos", "Videos", "{446D372E-D2C6-43C7-B733-2FA05987814D}"
+	ProjectSection(SolutionItems) = preProject
+		E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Videos\file.mp4 = E:\EVSTeaching\Programming Fundamentals\PF 102\2017-11-24(102)\Content\Videos\file.mp4
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styles", "Styles", "{7B70F94F-047C-4748-A430-C91949139187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FF9ED4-2055-4EC2-B97A-786AD3E67BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FF9ED4-2055-4EC2-B97A-786AD3E67BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FF9ED4-2055-4EC2-B97A-786AD3E67BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FF9ED4-2055-4EC2-B97A-786AD3E67BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5FA85C-4268-4EAB-816C-5FF6030C6CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5FA85C-4268-4EAB-816C-5FF6030C6CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5FA85C-4268-4EAB-816C-5FF6030C6CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5FA85C-4268-4EAB-816C-5FF6030C6CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB55B221-FBFF-4A6D-BC58-5508084A31B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB55B221-FBFF-4A6D-BC58-5508084A31B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB55B221-FBFF-4A6D-BC58-5508084A31B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB55B221-FBFF-4A6D-BC58-5508084A31B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3AFAE8-C752-4AF4-AA93-09C75CA49C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3AFAE8-C752-4AF4-AA93-09C75CA49C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3AFAE8-C752-4AF4-AA93-09C75CA49C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3AFAE8-C752-4AF4-AA93-09C75CA49C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1550CA39-FEE7-4FC2-B1B0-5603B348ADD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1550CA39-FEE7-4FC2-B1B0-5603B348ADD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1550CA39-FEE7-4FC2-B1B0-5603B348ADD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1550CA39-FEE7-4FC2-B1B0-5603B348ADD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC79E6B4-97F0-453B-81A9-163D67FF7DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC79E6B4-97F0-453B-81A9-163D67FF7DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC79E6B4-97F0-453B-81A9-163D67FF7DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC79E6B4-97F0-453B-81A9-163D67FF7DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337FBDED-13F0-4ACC-B6C2-3B464CBD1A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337FBDED-13F0-4ACC-B6C2-3B464CBD1A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337FBDED-13F0-4ACC-B6C2-3B464CBD1A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337FBDED-13F0-4ACC-B6C2-3B464CBD1A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261F9715-F4F5-4A36-8E7B-7BAD1FB7A030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261F9715-F4F5-4A36-8E7B-7BAD1FB7A030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261F9715-F4F5-4A36-8E7B-7BAD1FB7A030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261F9715-F4F5-4A36-8E7B-7BAD1FB7A030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6F6C4D-5225-4C3C-800E-76E4CA9A89CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6F6C4D-5225-4C3C-800E-76E4CA9A89CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6F6C4D-5225-4C3C-800E-76E4CA9A89CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6F6C4D-5225-4C3C-800E-76E4CA9A89CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD62CFC5-7F15-46DA-916A-ABE7783614F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD62CFC5-7F15-46DA-916A-ABE7783614F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD62CFC5-7F15-46DA-916A-ABE7783614F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD62CFC5-7F15-46DA-916A-ABE7783614F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AB1297-69B9-42BF-A842-10D881529C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AB1297-69B9-42BF-A842-10D881529C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AB1297-69B9-42BF-A842-10D881529C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AB1297-69B9-42BF-A842-10D881529C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDAF5CE-C8C2-491A-8308-35E6719A494A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDAF5CE-C8C2-491A-8308-35E6719A494A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDAF5CE-C8C2-491A-8308-35E6719A494A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDAF5CE-C8C2-491A-8308-35E6719A494A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C862F2-81BF-4842-9282-725BB0AB59CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C862F2-81BF-4842-9282-725BB0AB59CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C862F2-81BF-4842-9282-725BB0AB59CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C862F2-81BF-4842-9282-725BB0AB59CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F70F112-F3FB-4C79-A308-2B1558AE3634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F70F112-F3FB-4C79-A308-2B1558AE3634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F70F112-F3FB-4C79-A308-2B1558AE3634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F70F112-F3FB-4C79-A308-2B1558AE3634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06FF9ED4-2055-4EC2-B97A-786AD3E67BC1} = {96296CCB-50AA-4EC1-8A15-C89B65315B62}
+		{6D5FA85C-4268-4EAB-816C-5FF6030C6CC4} = {94EC354F-DB33-4A4E-8429-7F4E3B9B2FEE}
+		{DB55B221-FBFF-4A6D-BC58-5508084A31B7} = {A58713AC-C55C-45A4-87F6-6A457B07EBDC}
+		{DF3AFAE8-C752-4AF4-AA93-09C75CA49C48} = {9EB397B0-6F5C-42A1-8048-EDC368E275C7}
+		{1550CA39-FEE7-4FC2-B1B0-5603B348ADD6} = {9EB397B0-6F5C-42A1-8048-EDC368E275C7}
+		{FC79E6B4-97F0-453B-81A9-163D67FF7DEF} = {825E7F8B-F525-47DA-98CC-1CFE4874B49F}
+		{337FBDED-13F0-4ACC-B6C2-3B464CBD1A71} = {825E7F8B-F525-47DA-98CC-1CFE4874B49F}
+		{261F9715-F4F5-4A36-8E7B-7BAD1FB7A030} = {B2847AFD-0190-477A-9D26-D0991AA8638C}
+		{4B6F6C4D-5225-4C3C-800E-76E4CA9A89CA} = {B2847AFD-0190-477A-9D26-D0991AA8638C}
+		{BD62CFC5-7F15-46DA-916A-ABE7783614F8} = {65EA639F-5860-4EC4-9C2C-A2DA6DE894C0}
+		{C5AB1297-69B9-42BF-A842-10D881529C0C} = {D4001AED-4731-4A88-B5F8-AF7C0A9EE8C2}
+		{DCDAF5CE-C8C2-491A-8308-35E6719A494A} = {D4001AED-4731-4A88-B5F8-AF7C0A9EE8C2}
+		{D3C862F2-81BF-4842-9282-725BB0AB59CE} = {B9499A8F-DFFF-4E11-B2C1-C02DB35F2814}
+		{9F70F112-F3FB-4C79-A308-2B1558AE3634} = {29452C33-6DFB-4F93-A9B6-26B3F6AC3C00}
+		{35671E28-C256-4D1F-85A4-11814549AF43} = {0FF6AAF3-8779-4D58-A79C-5D1CB2CB5B99}
+		{53311FC4-D450-4415-88D5-6E92FB95C388} = {35671E28-C256-4D1F-85A4-11814549AF43}
+		{721C9D07-9362-426E-886A-6DCD9A95F60B} = {53311FC4-D450-4415-88D5-6E92FB95C388}
+		{0021A4AD-ED67-40AE-A66A-125F5462F058} = {6EC00D14-BD6D-4F62-9A9E-DC4E4D7B5364}
+		{E9351B34-BC40-4E3E-83C2-235EAE1D0845} = {0021A4AD-ED67-40AE-A66A-125F5462F058}
+		{834F1A18-A6B7-4734-8836-FC489E35F8E6} = {E9351B34-BC40-4E3E-83C2-235EAE1D0845}
+		{C144B924-408F-450F-83E6-4813FE69252E} = {E9351B34-BC40-4E3E-83C2-235EAE1D0845}
+		{7EB8B1E4-BF93-4DE9-8EB6-5BE465D071D1} = {E9351B34-BC40-4E3E-83C2-235EAE1D0845}
+		{83EB5BFB-CDFA-4991-A45B-30B6FA708BE2} = {6DDB51C7-4D7D-48A3-A5DB-FC6CDC2C3276}
+		{907CF2E1-4BE7-4489-87BD-4A02ECCEA6F0} = {83EB5BFB-CDFA-4991-A45B-30B6FA708BE2}
+		{446D372E-D2C6-43C7-B733-2FA05987814D} = {83EB5BFB-CDFA-4991-A45B-30B6FA708BE2}
+		{7B70F94F-047C-4748-A430-C91949139187} = {83EB5BFB-CDFA-4991-A45B-30B6FA708BE2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D6B1124-A2DC-4050-8DAB-053EA875ACDF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+﻿
+a {
+    text-decoration: none;
+}
+
+.banner {
+    height: 150px;
+    background: url('../Images/img1.png');
+}
+
+
+.navbar {
+    height: 50px;
+    background: cadetblue;
+}
+
+    .navbar .userinfo {
+        float: left;
+    }
+
+        .navbar .userinfo a:hover {
+            background: red;
+        }
+
+    .navbar .menu {
+        float: left;
+    }
+
+
+
+
+
+
+
+.sidepanel {
+    height: 450px;
+    background: yellowgreen;
+    width: 20%;
+    float: left;
+}
+
+.mainarea {
+    height: 450px;
+    width: 80%;
+    background: burlywood;
+    float: left;
+}
+
+
+.clr {
+    clear: both;
+}
+
+.footer {
+    height: 160px;
+    background: darkorange;
+}

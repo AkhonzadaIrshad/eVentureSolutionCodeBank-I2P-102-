@@ -1,0 +1,14 @@
+https://marketplace.visualstudio.com
+
+//Extensions
+
+1: Add New File
+2: Clippy
+3: Web Essentials 
+4: Productivity Power Tools
+5: Oz-code
+6: Code Alignment
+7: Resharper
+8: .NET Reflector
+
+

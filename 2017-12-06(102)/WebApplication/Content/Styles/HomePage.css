@@ -1,0 +1,124 @@
+﻿
+a {
+    text-decoration: none;
+}
+
+.banner {
+    height: 150px;
+    background: url('../Images/img1.png');
+}
+
+
+.navbar {
+    height: 50px;
+    box-shadow: -12px -1px 20px 6px lightgrey inset;
+    border: 1px solid lightgray;
+}
+
+    .navbar .userinfo {
+        float: left;
+    }
+
+
+        .navbar .userinfo a:hover {
+            background: red;
+        }
+
+    .navbar .menu {
+        margin-top: 15px;
+        float: left;
+        margin-left: 200px;
+    }
+
+        .navbar .menu a {
+            border: 1px solid lightgray;
+            padding: 10px;
+            color: gray;
+            font-family: calibri;
+        }
+
+
+
+
+
+
+
+.sidepanel {
+    height: 450px;
+    background: yellowgreen;
+    width: 20%;
+    float: left;
+}
+
+.mainarea {
+    height: 450px;
+    width: 80%;
+    float: left;
+}
+
+
+    .mainarea .product {
+        height: 245px;
+        border: 1px solid gray;
+        background: lightgray;
+        width: 170px;
+        margin-left: 26px;
+        margin-top: 20px;
+        float: left;
+        padding: 5px;
+        box-shadow: 5px 6px 10px 0px #9E9E9E;
+    }
+
+        .mainarea .product .imagearea {
+            border-bottom: 1px solid lightgray;
+            ;
+            background: white;
+        }
+
+            .mainarea .product .imagearea img {
+                margin: 0px 0px 0px 30px;
+                width: 100px
+            }
+
+        .mainarea .product .productdetail {
+            background: white;
+            height: 15px;
+            padding: 10px;
+        }
+
+            .mainarea .product .productdetail .productname {
+                font-size: 18px;
+                font-family: calibri;
+                font-weight: bold;
+                color: purple;
+            }
+
+        .mainarea .product .orderbtn {
+            background: white;
+            padding-bottom: 5px;
+        }
+
+            .mainarea .product .orderbtn button {
+                background: purple;
+                color: white;
+                margin-left: 120px;
+                border: 1px solid purple;
+                border-radius: 5px
+            }
+
+                .mainarea .product .orderbtn button:hover {
+                    background: white;
+                    color: purple;
+                    cursor: pointer;
+                }
+
+
+
+.clr {
+    clear: both;
+}
+
+.footer {
+    height: 160px;
+    background: darkorange;
+}

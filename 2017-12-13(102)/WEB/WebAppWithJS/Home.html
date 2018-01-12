@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+
+</head>
+<!--<body onload="ThirdFunction();">-->
+<body>
+
+
+    <!--<div>
+        <input type="text" placeholder="Enter Any Number Here" id="textbox" />
+        <button onclick="DisplayText()">Click</button>
+    </div>
+    <div>
+        <span id="displayarea">Default Text</span>
+    </div>-->
+
+    
+<div>
+    <label for="first">First Number</label><br/>
+    <input type="number" id="first"/><br />
+    <span>+</span><br />
+    <label for="second">Second Number</label><br />
+    <input type="number" id="second"/><br /><br />
+    <span>=</span>
+    <br/>
+    <label for="result">Result</label><br />
+    <input type="number" id="result" /><br /><br />
+    <br/>
+
+    <button onclick="Addition()">Add</button>
+</div>
+
+
+
+
+<!-- JS -->
+
+    <script type="text/javascript">
+
+
+        function Addition() {
+
+            var first = document.getElementById("first");
+            var second = document.getElementById("second");
+            var result = document.getElementById("result");
+            result.value = parseInt(first.value) + parseInt(second.value);
+        }
+
+
+        function DisplayText() {
+
+            //alert("Yes its working");
+
+            var textbox = document.getElementById("textbox");
+            var textarea = document.getElementById("displayarea");
+
+            if (textbox.value != "") {
+
+                textbox.style.background = "white";
+                textarea.innerHTML = "";
+                for (var i = 0; i <= 10; i++) {
+                    textarea.innerHTML +=
+                        "<br/><span style='color:yellowgreen'>" +
+                        textbox.value + "</span>";
+                }
+
+            }
+            else {
+                textbox.style.background = "red";
+            }
+
+
+
+
+            // alert(value);
+        }
+
+
+
+
+        //function FirstFunction()
+        //{
+        //    alert("Yes this is from JS (Javascript)");
+        //}
+
+        //function SecondFunction() {
+
+        //}
+
+
+        //function ThirdFunction() {
+        //    var firstVar = "This is a simple Var";
+        //    alert(firstVar);
+        //    firstVar = 1;
+        //    alert(firstVar);
+
+        //}
+
+
+        //var one = 1;
+        //if (one == 1) {
+        //    alert("Number is one");
+        //} else {
+        //    alert("Number is ! One");
+        //}
+
+
+        //for (var i = 0; i < 10; i++) {
+
+        //}
+        //while (true) {
+
+        //}
+
+        //do {
+
+        //} while (true)
+
+
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>

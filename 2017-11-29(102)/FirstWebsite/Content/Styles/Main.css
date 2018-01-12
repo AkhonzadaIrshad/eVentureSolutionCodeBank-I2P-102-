@@ -1,0 +1,23 @@
+﻿
+/*tag Name*/
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: calibri;
+}
+/*tag id*/
+/*#username {
+    font-size: 28px;
+}*/
+
+/*tag class*/
+
+.menu a {
+    border: 1px solid white;
+}
+.menu a:hover {
+    color: blue;
+    background: white;
+}
